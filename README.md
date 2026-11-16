@@ -28,11 +28,6 @@ We've included a handy startup script that handles running both the backend and 
    ./start.bat
    ```
 
-2. **Access the App:**
-   - **Frontend UI:** [http://localhost:5173](http://localhost:5173)
-   - **Backend API:** [http://localhost:5000](http://localhost:5000)
-   - **Swagger API Docs:** [http://localhost:5000/api-docs](http://localhost:5000/api-docs)
-
 ## Deploying to Vercel
 
 We have pre-configured `vercel.json` so you can deploy this entire monorepo easily!
